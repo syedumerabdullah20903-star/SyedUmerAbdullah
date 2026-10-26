@@ -1,0 +1,6 @@
+{
+  "name": "ZAVIK — Haute Prêt-à-Porter Luxury Fashion",
+  "description": "Discover ZAVIK. Modern luxury fashion and refined tailoring at accessible contemporary prices. Shop Men, Women, and Footwear collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
